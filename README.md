@@ -37,7 +37,6 @@ This project is a tribute to and builds on the ideas of **d-lev** by **Eric Wall
 
 - **Eric's site:** http://d-lev.com
 - **Theremin World thread:** [Let's design and build a mostly digital theremin](http://www.thereminworld.com/Forums/T/28554/lets-design-and-build-a-mostly-digital-theremin)
-- **d-lev source:** https://github.com/d-lec
 
 ## License
 
