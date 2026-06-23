@@ -33,11 +33,11 @@ subsystem is proven on hardware.
 
 ## Credits & lineage
 
-This project is a tribute to and builds on the ideas of **d-lev** by **Eric Wallin
-(dewster)** — the open FPGA theremin (HDL and software released under the MIT License):
+This project is a tribute to and builds on the ideas of **d-lev** by **Eric Wallin (dewster)** — the open FPGA theremin (HDL and software released under the MIT License).
 
-- d-lev HDL & software: https://github.com/d-lec
-- Theremin World design thread: http://www.thereminworld.com/Forums/T/28554/lets-design-and-build-a-mostly-digital-theremin
+- **Eric's site:** http://d-lev.com
+- **Theremin World thread:** [Let's design and build a mostly digital theremin](http://www.thereminworld.com/Forums/T/28554/lets-design-and-build-a-mostly-digital-theremin)
+- **d-lev source:** https://github.com/d-lec
 
 ## License
 
