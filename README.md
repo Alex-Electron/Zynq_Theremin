@@ -16,7 +16,7 @@ decisions are defined and held privately for now; they will be published increme
 as the hardware is brought up and validated.
 
 - **SoC:** Xilinx Zynq **XC7Z020** (Cortex-A9 PS + Artix-7 PL)
-- **Prototype board:** EBAZ4206 mining board (reworked from XC7Z010 to XC7Z020)
+- **Prototype board:** EBAZ4205 mining board (reworked from XC7Z010 to XC7Z020)
 - **Phase:** schematic & BOM → FPGA prototype
 
 ## Vision
